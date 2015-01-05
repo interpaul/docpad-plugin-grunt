@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RobLoach/docpad-plugin-grunt.git"
+    "url": "https://github.com/interpaul/docpad-plugin-grunt.git#v211"
   },
   "engines": {
     "node": ">=0.10",
