@@ -9,7 +9,15 @@ build/
 components/
 bower_components/
 node_modules/
-out/
+src/
+.travis*
+Cakefile
+Makefile
+BACKERS.md
+CONTRIBUTING.md
+HISTORY.md
+**/src/
+**/test/
 
 # =====================================
 # CUSTOM MODIFICATIONS
